@@ -1,13 +1,45 @@
+/* Body  */
 body {
   margin: 0;
 }
 
+/* ------------------------------------------------------ */
+
 /* Header Section */
 .header-section {
   text-align: center;
-  background-color: burlywood;
+  background-color: rgb(168, 135, 222);
   padding: 10px 0;
 }
+
+.header-section h1 {
+  margin: 20px 0;
+}
+
+/* ------------------------------------------------------ */
+
+/* main section */
+.main {
+  background-color: antiquewhite;
+}
+
+/* ------------------------------------------------------ */
+
+/* Article Section */
+
+.article {
+  padding: 10px;
+}
+
+.article-one img {
+  width: 100%;
+}
+
+.article-section {
+  display: flex;
+}
+
+/* ------------------------------------------------------ */
 
 /* Footer Section */
 .footer-section {
@@ -15,3 +47,5 @@ body {
   background-color: rgb(135, 222, 203);
   padding: 5px 0;
 }
+
+/* ------------------------------------------------------ */
