@@ -1,0 +1,89 @@
+/* Body  */
+body {
+  margin: 0;
+}
+
+/* ------------------------------------------------------ */
+
+/* Header Section */
+.header-section {
+  text-align: center;
+  background-color: rgb(168, 135, 222);
+  padding: 10px 0;
+}
+
+.header-section h1 {
+  margin: 20px 0;
+}
+
+/* ------------------------------------------------------ */
+
+/* main section */
+.main {
+  background-color: antiquewhite;
+  padding: 50px 0;
+}
+
+/* ------------------------------------------------------ */
+
+/* Article Section */
+
+.article {
+  padding: 10px;
+}
+
+.article-one img {
+  width: 100%;
+}
+
+.article-section {
+  display: flex;
+}
+
+/* ------------------------------------------------------ */
+
+/* Form Section */
+
+.form-section h2 {
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  text-decoration: underline;
+}
+
+.form label {
+  display: block;
+  text-align: center;
+  margin: 5px 0;
+}
+
+.submit-button {
+  display: block;
+  margin: 30px auto 0 auto;
+  outline: none;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  background-color: rgb(168, 135, 222);
+  color: white;
+}
+
+.submit-button:hover {
+  color: black;
+  background-color: rgb(135, 222, 203);
+}
+
+.form a {
+  color: rgb(210, 30, 201);
+}
+
+/* ------------------------------------------------------ */
+
+/* Footer Section */
+.footer-section {
+  text-align: center;
+  background-color: rgb(135, 222, 203);
+  padding: 5px 0;
+}
+
+/* ------------------------------------------------------ */
